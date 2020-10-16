@@ -5,4 +5,7 @@ public class Hello {
         System.out.println("hello Git");
         System.out.println("hello tiantian");
     }
+    public void show(){
+        System.out.println("master提交的代码");
+    }
 }
